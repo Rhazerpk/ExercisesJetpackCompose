@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataStore</string>
+    <string name="enter_first_task">Enter Task 1</string>
+    <string name="enter_second_task">Enter Task 2</string>
+    <string name="enter_third_task">Enter Task 3</string>
+    <string name="save">Save</string>
+    <string name="show_data">Display Data</string>
+</resources>
